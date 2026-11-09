@@ -221,9 +221,9 @@ Entre las áreas que me interesa continuar explorando están la arquitectura de 
 
 ## 🌐 Links & Contact | Enlaces y contacto
 
-- 💻 **GitHub:** [<!-- Add your actual GitHub profile URL -->](https://github.com/elpapu38)
-- 🌐 **Portfolio:** [<!-- Add your portfolio URL when available -->](https://norvek-studio.github.io/)
-- 💼 **LinkedIn:** [<!-- Add your LinkedIn URL if applicable -->](https://www.linkedin.com/in/benjamin-epul-853420428/)
+- 💻 **GitHub:** [GitHub Profile](https://github.com/elpapu38)
+- 🌐 **Portfolio:** [portfolio website](https://norvek-studio.github.io/)
+- 💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/benjamin-epul-853420428/)
 
 Thanks for visiting my profile! Feel free to explore my repositories and follow my journey as a developer.
 
